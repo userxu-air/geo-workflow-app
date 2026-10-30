@@ -1,0 +1,11 @@
+{
+  "provider": "阿里百炼 DashScope",
+  "api_key": "",
+  "api_url": "https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions",
+  "models": [
+    "qwen-max",
+    "qwen-plus",
+    "qwen-flash"
+  ],
+  "note": "请自行填写 API Key；请勿将含有 Key 的 config.json 分享或上传。"
+}
